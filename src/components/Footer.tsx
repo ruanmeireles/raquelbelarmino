@@ -18,14 +18,14 @@ const Footer = () => {
           
           <div>
             <h4 className="font-bold mb-4">Contato</h4>
-            <p className="text-gray-300 mb-2">Email: contato@raquelbelarmino.com.br</p>
-            <p className="text-gray-300">WhatsApp: (00) 00000-0000</p>
+            <p className="text-gray-300 mb-2">Email: raquelbelarminopinheiro@gmail.com</p>
+            <p className="text-gray-300">WhatsApp: (67) 99265-4285 </p>
           </div>
           
           <div>
             <h4 className="font-bold mb-4">Redes Sociais</h4>
             <div className="flex space-x-4">
-              <a href="#" className="text-white hover:text-gold transition-colors">
+              <a href="https://www.instagram.com/raquel5062?igsh=bHlleW5kc25udXE3" className="text-white hover:text-gold transition-colors" target="_blank">
                 <Instagram className="w-6 h-6" />
               </a>
               <a href="#" className="text-white hover:text-gold transition-colors">

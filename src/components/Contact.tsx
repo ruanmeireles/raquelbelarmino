@@ -37,7 +37,7 @@ const Contact = () => {
               Resposta rápida e atendimento personalizado
             </p>
             <a
-              href="https://wa.me/5500000000000"
+              href="https://wa.me/5567992654285"
               target="_blank"
               rel="noopener noreferrer"
               className="btn-primary inline-flex items-center"
