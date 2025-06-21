@@ -64,7 +64,7 @@ const About = () => {
             </h2>
             <p className="text-gray-600 mb-8 text-center" >
               Com mais de 20 anos de experiência na área da saúde, 
-              sou técnica de enfermagem e enfermeira (COREN-MS 000.738.624), 
+              sou enfermeira (COREN-MS 000.738.624), 
               especializada no tratamento de feridas. Ao longo da minha trajetória, 
               sempre busquei aprimorar meu conhecimento e, 
               por isso, realizei cursos focados em cuidados avançados com feridas, 
